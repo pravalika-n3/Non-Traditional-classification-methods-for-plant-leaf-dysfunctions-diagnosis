@@ -37,7 +37,9 @@ Upload a tomato leaf image to get the prediction
 
 Purpose of the Project
 -Early detection of tomato leaf diseases
+
 -Helpful for agriculture and farmers
+
 -Reduces manual disease identification
 
 
